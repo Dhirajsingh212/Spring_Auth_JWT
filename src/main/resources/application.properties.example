@@ -5,3 +5,4 @@ spring.datasource.password=**********
 
 spring.jpa.hibernate.ddl-auto=update
 spring.security.secret=(only number and characters)
+spring.cors.url=http://localhost:3000
